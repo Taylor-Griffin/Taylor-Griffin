@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taylor Griffin</h1>
-<h3 align="center">A creative frontend developer from NYC</h3>
+<h3 align="center">A creative web developer from NYC</h3>
 
 - 🌱 I’m currently learning **Svelte**
 
