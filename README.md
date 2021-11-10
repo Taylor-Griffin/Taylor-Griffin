@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [taylor-griffin.com](taylor-griffin.com)
 
-- ⚡ Fun fact **I'm a music nerd**
+- ⚡ Fun fact: **I'm a music nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
