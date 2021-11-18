@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [taylor-griffin.com](taylor-griffin.com)
+- 👨‍💻 My portfolio is available at [taylor-griffin.com](taylor-griffin.com)
 
 - ⚡ Fun fact: **I'm a music nerd**
 
