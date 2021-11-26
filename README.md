@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio is available at [taylor-griffin.com](taylor-griffin.com)
 
-- ⚡ Fun fact: **I'm a music nerd**
+- ⚡ Fun fact: **I'm a music fanatic and play the BASS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
