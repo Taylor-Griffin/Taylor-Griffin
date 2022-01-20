@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taylor Griffin</h1>
-<h3 align="center">Web Developer from Brooklyn</h3>
+<h3 align="center">Web Developer from Brooklyn, NY</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 My portfolio is available at [taylor-griffin.com](taylor-griffin.com)
 
-- ⚡ Fun fact: **I'm a music fanatic and play the BASS**
+- ⚡ Fun fact: **I'm a music fanatic and play the BASS **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
