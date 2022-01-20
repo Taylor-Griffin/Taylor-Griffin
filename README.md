@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor Griffin</h1>
 <h3 align="center">Web Developer from Brooklyn</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 My portfolio is available at [taylor-griffin.com](taylor-griffin.com)
 
