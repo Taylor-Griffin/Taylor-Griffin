@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Styled-components**
 
-- 👨‍💻 My portfolio is available at [taylor-griffin.com](www.taylor-griffin.com)
+- 👨‍💻 My portfolio is available at [taylor-griffin.com](https://www.taylor-griffin.com/)
 
 - ⚡ Fun fact: **I'm a music fanatic and play the BASS **
 
